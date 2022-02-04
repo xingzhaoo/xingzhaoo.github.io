@@ -1,0 +1,7 @@
+@inproceedings{zhao2019elastic,
+  title={Elastic Bulk Synchronous Parallel Model for Distributed Deep Learning},
+  author={Zhao, Xing and Papagelis, Manos and An, Aijun and Chen, Bao Xin and Liu, Junfeng and Hu, Yonggang},
+  booktitle={19th IEEE International Conference on Data Mining (ICDM)},
+  pages={1504-1509},
+  year={2019},
+}
